@@ -1,0 +1,18 @@
+Version Control
+
+--------------------
+Henry Liang’s FRM Guide I
+--------------------
+
+1-FRM
+Last Update: 8 Oct, 2017
+
+--------------------
+Henry Liang’s FRM Guide II
+--------------------
+
+5-BA
+Last Update: 1 April, 2018
+
+6-CI
+Last Update: 31 Mar, 2018
